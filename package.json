@@ -1,6 +1,6 @@
 {
   "name": "ng-lodash",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "An Angular module wrapper for lodash",
   "main": "build/ng-lodash.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/liveops/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rockabox/ng-lodash/issues"
+    "url": "https://github.com/liveops/ng-lodash/issues"
   },
-  "homepage": "https://github.com/rockabox/ng-lodash",
+  "homepage": "https://github.com/liveops/ng-lodash",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-bower-task": "~0.4.0",
@@ -41,6 +41,6 @@
     "load-grunt-tasks": "~3.1.0"
   },
   "engines": {
-    "node": "~0.10.0"
+    "node": "^0.10.0"
   }
 }

@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/liveops/ng-lodash.git"
+    "url": "https://github.com/liveops/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
